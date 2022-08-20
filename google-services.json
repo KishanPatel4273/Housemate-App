@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "489731755019",
+    "project_id": "nextgenpos-e6788",
+    "storage_bucket": "nextgenpos-e6788.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:489731755019:android:c95fc694d99d0042b44b0e",
+        "android_client_info": {
+          "package_name": "edu.vassar.cmpu203.nextgenpos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "489731755019-5v9hlnihrsgp19fv4egl1viqofoucqia.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHJZIHKyjntipqC434PoRWo5au9JOsxjw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "489731755019-5v9hlnihrsgp19fv4egl1viqofoucqia.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

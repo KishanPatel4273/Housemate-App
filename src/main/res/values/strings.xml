@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">NextGenPos</string>
+
+    <!-- for add items screen -->
+    <string name="line_items_label">Line items:</string>
+    <string name="line_items_text_default">No items to display</string>
+    <string name="item_name_label">Name:</string>
+    <string name="item_qty_label">Quantity:</string>
+    <string name="add_button">Add</string>
+    <string name="done_button">Done</string>
+
+
+    <!-- for cash payment screen -->
+    <string name="sale_total_label">Sale total:</string>
+    <string name="tendered_amount_label">Tendered amount:</string>
+    <string name="pay_button">Pay</string>
+    <string name="thank_you_label">Thank you! Your change is:</string>
+    <string name="payment_done_button">Done</string>
+
+
+    <!-- for ledger screen -->
+    <string name="new_sale_button">New sale</string>
+    <string name="ledger_label">Ledger:</string>
+
+
+    <!-- for authentication screen -->
+    <string name="welcome_label">Welcome to NextGenPos!</string>
+    <string name="username_label">Username:</string>
+    <string name="password_label">Password:</string>
+    <string name="register_button">Register</string>
+    <string name="signin_button">Sign in</string>
+    <string name="registration_success_msg">Registration successful. Please sign in now.</string>
+    <string name="user_already_exists_msg">Registration failed. Username already exists.</string>
+    <string name="invalid_credentials_msg">Signin failed. Invalid credentials.</string>
+
+
+</resources>
